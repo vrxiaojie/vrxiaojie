@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats-git-master-vrxiaojies-projects.vercel.app/api?username=vrxiaojie&show_icons=true&theme=radical)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats-git-master-vrxiaojies-projects.vercel.app/api/top-langs/?username=vrxiaojie&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-vrxiaojies-projects.vercel.app/api/top-langs/?username=vrxiaojie&layout=compact&theme=dark)](https://github.com/vrxiaojie/github-readme-stats)
 
 ## Repo
 <a href="https://github.com/vrxiaojie/ESP32-desktop-dashboard">
