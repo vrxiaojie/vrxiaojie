@@ -1,18 +1,17 @@
-## Hi there 👋
+# Hello ! I'm VRxiaojie, a college student from QAU
+## I do open source :)
 
-github-readme-stats-git-master-vrxiaojies-projects.vercel.app
+## Stats
 ![Anurag's GitHub stats](https://github-readme-stats-git-master-vrxiaojies-projects.vercel.app/api?username=vrxiaojie&show_icons=true&theme=radical)
-<!--
-**vrxiaojie/vrxiaojie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Top Languages
+[![Top Langs](https://github-readme-stats-git-master-vrxiaojies-projects.vercel.app/api/top-langs/?username=vrxiaojie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repo
+<a href="https://github.com/vrxiaojie/ESP32-desktop-dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vrxiaojie&repo=ESP32-desktop-dashboard" />
+</a>
+
+<a href="https://github.com/vrxiaojie/CW32F030C8T6_VAmeter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vrxiaojie&repo=CW32F030C8T6_VAmeter" />
+</a>
