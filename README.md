@@ -9,9 +9,9 @@
 
 ## Repo
 <a href="https://github.com/vrxiaojie/ESP32-desktop-dashboard">
-  <img align="center" src="https://github-readme-stats-git-master-vrxiaojies-projects.vercel.app/api/pin/?username=vrxiaojie&repo=ESP32-desktop-dashboard&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-git-master-vrxiaojies-projects.vercel.app/api/pin/?username=vrxiaojie&repo=ESP32-desktop-dashboard&theme=radical" />
 </a>
 
 <a href="https://github.com/vrxiaojie/CW32F030C8T6_VAmeter">
-  <img align="center" src="https://github-readme-stats-git-master-vrxiaojies-projects.vercel.app/api/pin/?username=vrxiaojie&repo=CW32F030C8T6_VAmeter&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats-git-master-vrxiaojies-projects.vercel.app/api/pin/?username=vrxiaojie&repo=CW32F030C8T6_VAmeter&theme=tokyonight" />
 </a>
