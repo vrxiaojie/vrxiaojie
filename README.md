@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats-mjghre7m1-vrxiaojies-projects.vercel.app/api?username=vrxiaojie)](https://github.com/anuraghazra/github-readme-stats)
-
+github-readme-stats-git-master-vrxiaojies-projects.vercel.app
+![Anurag's GitHub stats](https://github-readme-stats-git-master-vrxiaojies-projects.vercel.app/api?username=vrxiaojie&show_icons=true&theme=radical)
 <!--
 **vrxiaojie/vrxiaojie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
