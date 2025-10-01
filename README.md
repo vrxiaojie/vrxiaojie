@@ -1,4 +1,4 @@
-# Hello ! I'm VRxiaojie, a college student from QAU
+# Hello ! I'm VRxiaojie, a postgraduate from UPC
 ## I do open source :)
 
 ## Stats
